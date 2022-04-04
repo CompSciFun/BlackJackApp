@@ -65,7 +65,7 @@ public class Blackjack {
         } else {
             System.out.println("Dealer wins!");
         }
-        //For tasks 9 to 13, see the article: Blackjack Part II. 
+         
          scan.close();
 
     }
@@ -194,7 +194,7 @@ public class Blackjack {
         "  |_____|\n";
     }
     
-    /** Task 7 – make a function that asks the user to hit or stay.
+    /** 
      * Function name – hitOrStay
      * @return (boolean)
      *
